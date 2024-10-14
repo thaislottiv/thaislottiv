@@ -1,6 +1,6 @@
 ![image](https://github.com/user-attachments/assets/49c2c395-01ae-42b6-9682-7ec8f8cdc15c)## Olá, eu sou a Thaís Lotti (com acento, por favor!) 👋
 <p align="center">
-  <img src="[https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fbdx1.boadica.com.br%2Fhumor%2F421%2Fgenio-ou-babacao-de-pai&psig=AOvVaw1XXImr0EwCzgYIq_pUee39&ust=1729034991570000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMiF6baDj4kDFQAAAAAdAAAAABAE)" width="200">
+  <img src="[[https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fbdx1.boadica.com.br%2Fhumor%2F421%2Fgenio-ou-babacao-de-pai&psig=AOvVaw1XXImr0EwCzgYIq_pUee39&ust=1729034991570000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMiF6baDj4kDFQAAAAAdAAAAABAE)](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)" width="200">
 </p>
 
 🌱 Atualmente atuo como Analista de Infraestrutura e Segurança, com foco em garantir a eficiência e proteção de ambientes críticos.
