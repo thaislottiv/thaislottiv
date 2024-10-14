@@ -1,8 +1,8 @@
 ## Olá, eu sou a Thais Lotti 👋
 
-🌱 Atualmente, sou **Analista de Infraestrutura e Segurança** na RTM.
+🌱 Atualmente, sou **Analista de Infraestrutura e Segurança**.
 
-💻 Tenho experiência em **Cloud, Infraestrutura, Kubernetes, Segurança de Redes** e **Mercado Financeiro**.
+💻 Tenho experiência em **Cloud, Infraestrutura, Kubernetes, Segurança e Java**.
 
 🔭 Estou focada em projetos com **Java**, **Python** e **JavaScript**.
 
