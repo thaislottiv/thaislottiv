@@ -1,4 +1,7 @@
-Olá, eu sou a Thaís Lotti (com acento, por favor!) 👋
+## Olá, eu sou a Thaís Lotti (com acento, por favor!) 👋
+<p align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200">
+</p>
 
 🌱 Atualmente atuo como Analista de Infraestrutura e Segurança, com foco em garantir a eficiência e proteção de ambientes críticos.
 
@@ -31,3 +34,12 @@ Olá, eu sou a Thaís Lotti (com acento, por favor!) 👋
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=red-hat&logoColor=white)
+
+## 📜 Certificações
+![AWS Certified](https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-blue?style=for-the-badge&logo=amazon-aws)
+![Certified Kubernetes Administrator](https://img.shields.io/badge/Certified-Kubernetes%20Administrator-blue?style=for-the-badge&logo=kubernetes)
+![Terraform Certified](https://img.shields.io/badge/Certified-Terraform-blueviolet?style=for-the-badge&logo=terraform)
+
+## 🌍 Contribuições Open Source
+![GitHub Open Source](https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=for-the-badge)
+![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-Contributor-orange?style=for-the-badge)
