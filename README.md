@@ -33,3 +33,19 @@ Olá, eu sou a Thaís Lotti (com acento, por favor!) 👋
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+
+## Minhas Estatísticas no GitHub
+
+![Thais Lotti's GitHub stats](https://github-readme-stats.vercel.app/api?username=thaislottiv&show_icons=true&theme=dracula)
+
+![Thais Lotti's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=thaislottiv&theme=dracula)
+
+![Thais Lotti's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thaislottiv&layout=compact&theme=dracula)
+
+## Gráfico de Atividade
+
+![Thais Lotti's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=thaislottiv&theme=radical)
+
+## Linguagens Mais Usadas
+
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=thaislottiv&layout=compact&theme=radical)
