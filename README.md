@@ -1,16 +1,15 @@
-## Hi there 👋
+## Olá, eu sou a Thais Lotti 👋
 
-<!--
-**thaislottiv/thaislottiv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Atualmente, sou **Analista de Infraestrutura e Segurança** na RTM.
 
-Here are some ideas to get you started:
+💻 Tenho experiência em **Cloud, Infraestrutura, Kubernetes, Segurança de Redes** e **Mercado Financeiro**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Estou focada em projetos com **Java**, **Python** e **JavaScript**.
+
+📚 Estou me formando em **Análise e Desenvolvimento de Sistemas**.
+
+🎓 Conquistei certificações e conhecimentos práticos em **segurança e cloud**.
+
+⚡ Fun fact: Adoro doramas e ir em pagodes nos domingos.
+
+**Vamos nos conectar!** [![Linkedin Badge](https://img.shields.io/badge/-Thais_Lotti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaislotti/)](https://www.linkedin.com/in/thaislotti/)
