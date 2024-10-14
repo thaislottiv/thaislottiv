@@ -1,6 +1,6 @@
-## Olá, eu sou a Thaís Lotti (com acento, por favor!) 👋
+![image](https://github.com/user-attachments/assets/49c2c395-01ae-42b6-9682-7ec8f8cdc15c)## Olá, eu sou a Thaís Lotti (com acento, por favor!) 👋
 <p align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200">
+  <img src="[https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fbdx1.boadica.com.br%2Fhumor%2F421%2Fgenio-ou-babacao-de-pai&psig=AOvVaw1XXImr0EwCzgYIq_pUee39&ust=1729034991570000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMiF6baDj4kDFQAAAAAdAAAAABAE)" width="200">
 </p>
 
 🌱 Atualmente atuo como Analista de Infraestrutura e Segurança, com foco em garantir a eficiência e proteção de ambientes críticos.
@@ -36,10 +36,15 @@
 ![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=red-hat&logoColor=white)
 
 ## 📜 Certificações
-![AWS Certified](https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-blue?style=for-the-badge&logo=amazon-aws)
-![Certified Kubernetes Administrator](https://img.shields.io/badge/Certified-Kubernetes%20Administrator-blue?style=for-the-badge&logo=kubernetes)
-![Terraform Certified](https://img.shields.io/badge/Certified-Terraform-blueviolet?style=for-the-badge&logo=terraform)
 
-## 🌍 Contribuições Open Source
-![GitHub Open Source](https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=for-the-badge)
-![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-Contributor-orange?style=for-the-badge)
+![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-blue?style=for-the-badge&logo=amazon-aws)
+![Endpoint Security - Cisco](https://img.shields.io/badge/Cisco-Endpoint%20Security-blue?style=for-the-badge&logo=cisco)
+![Ethical Hacker - Cisco](https://img.shields.io/badge/Cisco-Ethical%20Hacker-red?style=for-the-badge&logo=cisco)
+![Fortinet Certified Associate](https://img.shields.io/badge/Fortinet-Certified%20Associate-red?style=for-the-badge&logo=fortinet)
+![Microsoft SC-900](https://img.shields.io/badge/Microsoft%20Certified-Security%20Compliance%20Identity-blue?style=for-the-badge&logo=microsoft)
+![Network Defense - Cisco](https://img.shields.io/badge/Cisco-Network%20Defense-blue?style=for-the-badge&logo=cisco)
+![Oracle Cloud Infrastructure](https://img.shields.io/badge/Oracle%20Certified-Cloud%20Infrastructure%20Generative%20AI-red?style=for-the-badge&logo=oracle)
+![Red Hat Delivery Specialist](https://img.shields.io/badge/Red%20Hat-Delivery%20Specialist%20Enterprise%20Linux-red?style=for-the-badge&logo=redhat)
+![Red Hat Cloud Specialist](https://img.shields.io/badge/Red%20Hat-Delivery%20Specialist%20Cloud%20Infrastructure-red?style=for-the-badge&logo=redhat)
+![Scrum Foundation Professional Certification](https://img.shields.io/badge/Scrum%20Foundation-Professional%20Certification-blue?style=for-the-badge&logo=scrum)
+
