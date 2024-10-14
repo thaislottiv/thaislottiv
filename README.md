@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/49c2c395-01ae-42b6-9682-7ec8f8cdc15c)## Olá, eu sou a Thaís Lotti (com acento, por favor!) 👋
+## Olá, eu sou a Thaís Lotti (com acento, por favor!) 👋
 <p align="center">
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif">
 </p>
